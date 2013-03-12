@@ -1,0 +1,23 @@
+* text=auto !eol
+/Elevation.cs -text
+/FileSearcher.cs -text
+/GlobalSuppressions.cs -text
+/License.txt -text
+/MainForm.Designer.cs -text
+/MainForm.SearchLogic.cs -text
+/MainForm.cs -text
+/MainForm.resx -text
+/NativeMethods.cs -text
+/NotifyEvent.cs -text
+/Program.cs -text
+Properties/AssemblyInfo.cs -text
+Properties/Resources.Designer.cs -text
+Properties/Resources.resx -text
+/Settings.StyleCop -text
+/TileManager.csproj -text
+/TileManager.sln -text
+/TileManager.v11.suo -text
+/Todo.txt -text
+/app.config -text
+bin/Release/TileManager.exe -text
+bin/Release/UtilityMethods.dll -text

@@ -1,0 +1,8 @@
+[submodule "lib"]
+	path = lib
+	owner = /
+	url = https://subversion.assembla.com/svn/agon/Library/trunk/bin/Release
+	branch = /
+	fetch = :refs/remotes/git-svn
+	remote = svn
+	type = dir
